@@ -1,8 +1,7 @@
 """
 SOLUTION 1 : Face Morphing / Synthesis
 Use PCA to blend two people's faces, generate faces that never existed,
-walk the face manifold.  Very visual, impressive graphs.
-Lab exercises covered: 1 (data exploration/visualisation), 4 (PCA)
+walk the face manifold.
 """
 import numpy as np
 import matplotlib.pyplot as plt
