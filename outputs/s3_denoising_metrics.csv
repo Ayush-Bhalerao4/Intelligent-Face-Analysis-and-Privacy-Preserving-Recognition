@@ -1,0 +1,51 @@
+noise,level,method,PSNR,SSIM
+Gaussian noise,0.05,Noisy (no filter),26.0194,0.7595
+Gaussian noise,0.05,Gaussian filter,29.8498,0.9014
+Gaussian noise,0.05,Median filter,29.5172,0.8818
+Gaussian noise,0.05,Non-local means,30.6356,0.8964
+Gaussian noise,0.05,PCA reconstruction,25.2684,0.7546
+Gaussian noise,0.1,Noisy (no filter),20.0526,0.5053
+Gaussian noise,0.1,Gaussian filter,27.7191,0.8344
+Gaussian noise,0.1,Median filter,25.9265,0.7604
+Gaussian noise,0.1,Non-local means,26.7382,0.7849
+Gaussian noise,0.1,PCA reconstruction,25.0988,0.7492
+Gaussian noise,0.15,Noisy (no filter),16.6807,0.3485
+Gaussian noise,0.15,Gaussian filter,25.6312,0.7545
+Gaussian noise,0.15,Median filter,23.1945,0.6409
+Gaussian noise,0.15,Non-local means,24.6368,0.6906
+Gaussian noise,0.15,PCA reconstruction,24.851,0.7404
+Gaussian noise,0.2,Noisy (no filter),14.4227,0.2524
+Gaussian noise,0.2,Gaussian filter,23.8681,0.6737
+Gaussian noise,0.2,Median filter,21.0444,0.537
+Gaussian noise,0.2,Non-local means,23.2989,0.6147
+Gaussian noise,0.2,PCA reconstruction,24.4818,0.7279
+Gaussian noise,0.3,Noisy (no filter),11.6259,0.1504
+Gaussian noise,0.3,Gaussian filter,21.246,0.5398
+Gaussian noise,0.3,Median filter,17.9107,0.3857
+Gaussian noise,0.3,Non-local means,21.5242,0.5057
+Gaussian noise,0.3,PCA reconstruction,23.4676,0.6937
+Salt & pepper noise,0.02,Noisy (no filter),22.6282,0.7321
+Salt & pepper noise,0.02,Gaussian filter,28.6883,0.8739
+Salt & pepper noise,0.02,Median filter,33.0608,0.9525
+Salt & pepper noise,0.02,Non-local means,22.5564,0.7176
+Salt & pepper noise,0.02,PCA reconstruction,25.1809,0.7515
+Salt & pepper noise,0.05,Noisy (no filter),18.4858,0.4984
+Salt & pepper noise,0.05,Gaussian filter,26.4692,0.7974
+Salt & pepper noise,0.05,Median filter,32.4715,0.9482
+Salt & pepper noise,0.05,Non-local means,18.4702,0.4901
+Salt & pepper noise,0.05,PCA reconstruction,24.9057,0.7428
+Salt & pepper noise,0.1,Noisy (no filter),15.4812,0.3222
+Salt & pepper noise,0.1,Gaussian filter,24.2362,0.7057
+Salt & pepper noise,0.1,Median filter,31.1656,0.939
+Salt & pepper noise,0.1,Non-local means,15.483,0.3186
+Salt & pepper noise,0.1,PCA reconstruction,24.3519,0.7268
+Salt & pepper noise,0.15,Noisy (no filter),13.7289,0.2337
+Salt & pepper noise,0.15,Gaussian filter,22.6761,0.6261
+Salt & pepper noise,0.15,Median filter,29.4592,0.9228
+Salt & pepper noise,0.15,Non-local means,13.7368,0.2322
+Salt & pepper noise,0.15,PCA reconstruction,23.771,0.7101
+Salt & pepper noise,0.2,Noisy (no filter),12.5278,0.1839
+Salt & pepper noise,0.2,Gaussian filter,21.5281,0.568
+Salt & pepper noise,0.2,Median filter,27.418,0.8958
+Salt & pepper noise,0.2,Non-local means,12.5411,0.1832
+Salt & pepper noise,0.2,PCA reconstruction,23.1631,0.6917
