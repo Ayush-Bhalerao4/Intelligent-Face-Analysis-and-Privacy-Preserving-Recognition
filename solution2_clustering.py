@@ -1,6 +1,5 @@
 """
 SOLUTION 2 : Probabilistic modelling (GMM-EM) and cluster analysis
-Lab exercises covered: 2 (probabilistic foundations), 4 (cluster analysis), 1 (visualisation)
 Fully unsupervised: true labels are used ONLY to evaluate the clusters afterwards.
 """
 import warnings
