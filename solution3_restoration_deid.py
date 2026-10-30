@@ -1,10 +1,8 @@
 """
 SOLUTION 3 : Image restoration (de-noising) and face de-identification
-Lab exercises covered: 8 (image de-noising system), 7 (face de-identification system)
 Part A: Gaussian and salt-and-pepper noise removed with Gaussian filter, median filter,
         non-local means and PCA reconstruction (PSNR / SSIM evaluation).
-Part B: pixelation, blur and k-same averaging; privacy-utility trade-off measured with
-        a face recogniser trained on clean faces.
+Part B: pixelation, blur and k-same averaging; privacy-utility trade-off measured with a face recogniser trained on clean faces.
 """
 import os
 import warnings
