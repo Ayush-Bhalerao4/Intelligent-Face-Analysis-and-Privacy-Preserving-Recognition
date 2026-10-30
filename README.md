@@ -1,6 +1,6 @@
 # Intelligent Face Analysis and Privacy-Preserving Recognition
 Pattern Recognition lab project: three solutions on the **Olivetti Faces** dataset
-(400 grayscale images, 40 people, 64x64).
+(400 grayscale images, 40 people, 64x64). No deep learning, no GPU.
 
 ## Setup
 ```bash
@@ -11,7 +11,7 @@ first run (internet needed once; it is then cached in `~/scikit_learn_data`).
 
 ## Run
 ```bash
-python run_all.py                       
+python run_all.py                       # all three solutions (a few minutes in total)
 # or one at a time:
 python solution1_face_morphing.py
 python solution2_clustering.py
